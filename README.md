@@ -1,2 +1,2 @@
 # myfirstgit
-first project
+learning processs
